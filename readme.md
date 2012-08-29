@@ -1,1 +1,0 @@
-# <a href='http://marshallchen.me'><img src='favicon.png' style='vertical-align: middle;' /></a>
