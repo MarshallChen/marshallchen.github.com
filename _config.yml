@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://marshallchen.me
-title: "MARSHALL CHEN"
-subtitle: "Less, But Better."
+title: "MARSHALLCHEN"
+subtitle: "Techniques with code and illustrations."
 author: "Marshall Chen"
 simple_search: http://google.com/search
-description: "CoffeeScript, Stylus, Jade"
+description: "Marshall's personal site about programming and drawing."
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -89,8 +89,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: marshallchen
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-34306293-1
