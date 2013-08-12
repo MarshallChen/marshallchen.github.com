@@ -1,0 +1,31 @@
+html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+body{margin:0;background:#e0e0e0;font:400 11pt/1.8 "Hiragino Sans GB" Helvetica,Arial,sans-serif}
+a {color:#555;text-decoration:none;border-bottom: 2px solid #e5e5e5}
+a:active,a:hover{outline:0;color:#e0e0e0;background:#313131}
+h1,h2{font-size:42pt;line-height:1;margin:0;margin:20px 0;font-family:"Segoe UI" Helvetica,Arial,sans-serif;font-weight:100}
+h2{font-size:20pt}
+p{margin:10px 0}
+code{font:400 10pt/1.4 "Monaco" monospace}
+img{vertical-align:middle}
+table{border-collapse:collapse;border-spacing:0}
+strong{font-weight:700}
+.clearfix{display:block;*zoom:1;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+.f-left{float:left}
+.f-right{float:right}
+.container{width:1000px;margin:0 auto;background:#e0e0e0 url("/images/resume-texture.png");-webkit-box-shadow:0 3px 30px rgba(0,0,0,0.2);box-shadow:0 3px 30px rgba(0,0,0,0.2)}
+.content{padding:50px 100px 0;}
+.content .skills table, .content .experience table{width: 100%}
+.content .bio .photo{width:34%;margin-left:20px;}
+.content .bio .photo img{width:100%}
+.content .bio h2{margin-top:0}
+.content .bio table th{text-align:left;padding-right:20px}
+.content .experience .experience-piece{margin-bottom:40px}
+.content .experience ul{margin:10px 20px; list-style: dashed;}
+.content .skills table th, .content .experience table th{padding:10px 20px 7px;text-align:left;background:-webkit-gradient(linear, left top, left bottom, color-stop(0, #ededed), color-stop(1, #e0e0e0));background:-webkit-linear-gradient(top, #ededed 0%, #e0e0e0 100%);background:-moz-linear-gradient(top, #ededed 0%, #e0e0e0 100%);background:-o-linear-gradient(top, #ededed 0%, #e0e0e0 100%);background:-ms-linear-gradient(top, #ededed 0%, #e0e0e0 100%);background:linear-gradient(top, #ededed 0%, #e0e0e0 100%);border-bottom:1px solid #d0d0d0;color:#707070}
+.content .skills table tr, .content .experience table tr{border-bottom:1px solid #d0d0d0}
+.content .skills .img{width:40px;margin:10px 20px 10px 20px;text-align:center;}
+.content .skills .img img{width:100%}
+.content .skills .detail{padding:0 20px}
+.footer{padding:10px 0;text-align:center}
+.footer p{margin:0}
